@@ -1,0 +1,10 @@
+C:\Users\Adasoft\Documents\Visual Studio 2010\Projects\AdaSupportTracker\AdaSupportTracker\bin\AdaSupportTracker.dll
+C:\Users\Adasoft\Documents\Visual Studio 2010\Projects\AdaSupportTracker\AdaSupportTracker\bin\AdaSupportTracker.pdb
+C:\Users\Adasoft\Documents\Visual Studio 2010\Projects\AdaSupportTracker\AdaSupportTracker\obj\Debug\AdaSupportTracker.dll
+C:\Users\Adasoft\Documents\Visual Studio 2010\Projects\AdaSupportTracker\AdaSupportTracker\obj\Debug\AdaSupportTracker.pdb
+D:\AdaSupportTracker\AdaSupportTracker\bin\AdaSupportTracker.dll.config
+D:\AdaSupportTracker\AdaSupportTracker\bin\AdaSupportTracker.dll
+D:\AdaSupportTracker\AdaSupportTracker\bin\AdaSupportTracker.pdb
+D:\AdaSupportTracker\AdaSupportTracker\obj\Debug\AdaSupportTracker.csprojResolveAssemblyReference.cache
+D:\AdaSupportTracker\AdaSupportTracker\obj\Debug\AdaSupportTracker.dll
+D:\AdaSupportTracker\AdaSupportTracker\obj\Debug\AdaSupportTracker.pdb

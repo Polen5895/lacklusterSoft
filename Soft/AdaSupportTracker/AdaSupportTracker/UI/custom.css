@@ -1,0 +1,36 @@
+﻿.txt   {
+    border:1px solid #333333;
+   border-radius:4px;
+   
+   
+}
+
+.bar{
+     padding: 1px;
+    background-color:lightgreen;
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+}
+.bar:hover 
+{   
+   
+   color :#336699 ;
+}
+
+#lvl{
+    text-align:right;
+    font-family:'Times New Roman', Times, serif;
+    font-size:small;
+}
+.btn{
+    padding: 1px;
+    font-family:'Times New Roman', Times, serif;
+    background-color:lightgreen;
+    color: black;
+
+}
+.btn:hover 
+{   
+   background-color: white;
+   color :#336699 ;
+}

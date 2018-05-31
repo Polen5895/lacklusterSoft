@@ -1,0 +1,9 @@
+C:\Users\Adasoft\Documents\Visual Studio 2010\Projects\AdaSupportTracker\Support.Report\bin\Debug\Support.Report.dll
+C:\Users\Adasoft\Documents\Visual Studio 2010\Projects\AdaSupportTracker\Support.Report\bin\Debug\Support.Report.pdb
+C:\Users\Adasoft\Documents\Visual Studio 2010\Projects\AdaSupportTracker\Support.Report\obj\Debug\Support.Report.dll
+C:\Users\Adasoft\Documents\Visual Studio 2010\Projects\AdaSupportTracker\Support.Report\obj\Debug\Support.Report.pdb
+D:\AdaSupportTracker\Support.Report\bin\Debug\Support.Report.dll
+D:\AdaSupportTracker\Support.Report\bin\Debug\Support.Report.pdb
+D:\AdaSupportTracker\Support.Report\obj\Debug\Support.Report.csprojResolveAssemblyReference.cache
+D:\AdaSupportTracker\Support.Report\obj\Debug\Support.Report.dll
+D:\AdaSupportTracker\Support.Report\obj\Debug\Support.Report.pdb

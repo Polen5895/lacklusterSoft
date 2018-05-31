@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdaSupportTracker", "AdaSupportTracker\AdaSupportTracker.csproj", "{61615A10-6BE3-40FA-A9C7-67F52FFABABE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Support.core", "Support.core\Support.core.csproj", "{14F9E1AC-FBA0-4FDB-8A65-90FF78357C77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Support.Report", "Support.Report\Support.Report.csproj", "{4FD58238-C722-4DFD-9944-689F7E1D4D7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61615A10-6BE3-40FA-A9C7-67F52FFABABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61615A10-6BE3-40FA-A9C7-67F52FFABABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61615A10-6BE3-40FA-A9C7-67F52FFABABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61615A10-6BE3-40FA-A9C7-67F52FFABABE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14F9E1AC-FBA0-4FDB-8A65-90FF78357C77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14F9E1AC-FBA0-4FDB-8A65-90FF78357C77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14F9E1AC-FBA0-4FDB-8A65-90FF78357C77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14F9E1AC-FBA0-4FDB-8A65-90FF78357C77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FD58238-C722-4DFD-9944-689F7E1D4D7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FD58238-C722-4DFD-9944-689F7E1D4D7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FD58238-C722-4DFD-9944-689F7E1D4D7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FD58238-C722-4DFD-9944-689F7E1D4D7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+EndGlobal
